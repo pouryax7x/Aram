@@ -1,0 +1,12 @@
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/bin/Debug/netcoreapp2.2/Aram.IBSS.deps.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/bin/Debug/netcoreapp2.2/Aram.IBSS.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/bin/Debug/netcoreapp2.2/Aram.IBSS.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/bin/Debug/netcoreapp2.2/Aram.Model.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/bin/Debug/netcoreapp2.2/Aram.Model.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.csproj.CopyComplete
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.IBSS/obj/Debug/netcoreapp2.2/Aram.IBSS.pdb

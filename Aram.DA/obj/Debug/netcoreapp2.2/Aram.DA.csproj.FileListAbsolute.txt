@@ -1,0 +1,16 @@
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.DA.deps.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.DA.runtimeconfig.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.DA.runtimeconfig.dev.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.DA.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.DA.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.IDataAccess.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.Model.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.Model.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/bin/Debug/netcoreapp2.2/Aram.IDataAccess.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.csproj.CopyComplete
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.DA/obj/Debug/netcoreapp2.2/Aram.DA.pdb

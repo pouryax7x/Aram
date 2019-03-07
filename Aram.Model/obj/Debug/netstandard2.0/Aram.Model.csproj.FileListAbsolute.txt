@@ -1,0 +1,9 @@
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/bin/Debug/netstandard2.0/Aram.Model.deps.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/bin/Debug/netstandard2.0/Aram.Model.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/bin/Debug/netstandard2.0/Aram.Model.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.Model/obj/Debug/netstandard2.0/Aram.Model.pdb

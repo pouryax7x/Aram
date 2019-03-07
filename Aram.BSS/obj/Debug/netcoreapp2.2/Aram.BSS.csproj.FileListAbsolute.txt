@@ -1,0 +1,16 @@
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.BSS.deps.json
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.BSS.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.BSS.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.IBSS.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.IDataAccess.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.Model.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.IDataAccess.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.Model.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/bin/Debug/netcoreapp2.2/Aram.IBSS.pdb
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.csprojAssemblyReference.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.csproj.CoreCompileInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.AssemblyInfoInputs.cache
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.AssemblyInfo.cs
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.csproj.CopyComplete
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.dll
+/Users/Pourya/Desktop/Projects/Aram/Aram.BSS/obj/Debug/netcoreapp2.2/Aram.BSS.pdb
